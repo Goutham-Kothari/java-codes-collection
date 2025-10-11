@@ -278,7 +278,7 @@ Short Value: 20000
 Long Value: 12345678900
 Float Value: 68.5
 
-Thank you Goutham for using this program!
+Thank you Abc for using this program!
 ```
 
 > Note: exact ordering/spacing depends on where `print` vs `println` were used in the code.
