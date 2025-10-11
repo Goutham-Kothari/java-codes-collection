@@ -14,8 +14,6 @@
 5. Full explanation (section-by-section)
 6. Important tips & common pitfalls
 7. Java primitive data types (sizes & ranges overview)
-8. Example run (sample input → expected output)
-9. Suggested next steps / exercises
 
 ---
 
