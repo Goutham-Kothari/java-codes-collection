@@ -1,5 +1,4 @@
-````markdown
-# 🎨 Java Pattern Programs
+# Java Pattern Programs
 
 This repository contains various **Java pattern printing programs** that demonstrate the use of **loops**, **nested loops**, and **user input**.  
 These are great exercises for beginners to understand the logic of pattern generation in Java.
@@ -31,9 +30,7 @@ These are great exercises for beginners to understand the logic of pattern gener
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/Goutham-Kothari/java-pattern-programs.git
-````
-
+   git clone https://github.com/your-username/java-pattern-programs.git
 2. **Open a terminal** in the cloned folder.
 
 3. **Compile and run** any program:
