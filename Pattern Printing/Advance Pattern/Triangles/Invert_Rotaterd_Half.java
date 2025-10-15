@@ -8,7 +8,7 @@ class Invert_Rotaterd_Half {
         int r = sc.nextInt();
 
         for (int i = 1; i <= r; i++) {
-            for (int j = 1; j <= (r-i+1); j++) {
+            for (int j = 1; j <= (r-i); j++) {
                 System.out.print("  ");
             }
             for (int k = 1; k <= i; k++) {
